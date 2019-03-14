@@ -1,16 +1,16 @@
 html, body {
-  background-color: #274156;
+  background-color: #42644b;
   font-family: 'Work Sans', sans-serif;
   text-align: center;
   height: 100%;
 }
 
 a {
-  color: #1C6E8C;
+  color: #324c3c;
 }
 
-a:hover {
-  color: #274156;
+a:focus {
+  color: #4b6756;
 }
 
 .wrapper {
